@@ -14,7 +14,7 @@
     <a href="https://dannwee.xyz" target="_blank" rel="noopener noreferrer">
      <img align="center" src="https://img.icons8.com/?size=100&id=2963&format=png&color=41A4F3" alt="website" height="33" width="33" />
     </a>
-    <a href="https://x.com/0xbaseddann" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/dannxbt" target="_blank" rel="noopener noreferrer">
      <img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=41A4F3" alt="twitter" height="33" width="33" />
     </a>
     <a href="https://linkedin.com/in/dannwee" target="_blank" rel="noopener noreferrer">
