@@ -7,7 +7,7 @@
 **Currently my days are devoted to -**
 - ⛏️ Indie building products.
 - 🤲🏼 Contributing to open source projects.
-- ✍🏼 Writing [developer guides](https://dev.dannwee.xyz/). Check them out!
+- ✍🏼 Writing [developer guides](https://blog.dannwee.xyz/). Check them out!
  
 <p align="left">
  <h4>Connect with me</h4>
